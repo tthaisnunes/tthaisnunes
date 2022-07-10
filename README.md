@@ -1,10 +1,17 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/6308411/178150041-5ee563ff-4449-4f87-8c89-9318b1ad327c.png)
+
+
+### Hey there 👋
+
+Hi! I'm Thais, a developer with more than 9 years of experience in a wide range of disciplines. Currently I'm working with Angular 10+ and React JS.
+
+My journey as a developer began in 2013 when I started studying in Senac University. This has helped me to widen my range of knowledge and gather experience through several disciplines, such as front-end, back-end, mobile apps, design, project management, and many more.
+
+Since the beginning of my career as a developer, I have been working with up to date technologies, looking for high quality projects through clean code. Always thinking about a great user experience.
+
+
 
 <!--
-**tthaisnunes/tthaisnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
